@@ -4,4 +4,4 @@ while (counter < 10) {
   result = result * 2;
   counter = counter + 1;
 }
-show(result);
+console.log(result);
