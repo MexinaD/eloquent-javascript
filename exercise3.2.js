@@ -5,4 +5,4 @@ function greaterThan(x) {
 }
 
 var greaterThanTen = greaterThan(10);
-show(greaterThanTen(9));
+console.log(greaterThanTen(9));

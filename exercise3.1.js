@@ -5,4 +5,4 @@ function absolute(number) {
     return number;
 }
 
-show(absolute(-144));
+console.log(absolute(-144));
